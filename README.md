@@ -1,4 +1,4 @@
-# 🏛️ AI Expert Program - Technical Reports Archive
+# 🏛️ 2026년 행안부, NIA AI 전문인재 교육
 > ** 2026년 AI 데이터 분석 전문인재 양성과정 과제 제출 저장소 **
 
 ## 📂 Overview
